@@ -12,41 +12,46 @@
 header {
   height: 100px;
   background-color: pink;
+  margin: 20px 0;
 }
 
 .banner {
   height: 400px;
   background-color: beige;
-}
-
-.main-box {
-  height: 500px;
-  background-color: dodgerblue;
+  margin: 20px 0;
 }
 
 /* Section con le colonne */
+.main-box {
+  height: 500px;
+  background-color: dodgerblue;
+  margin: 10px 0;
+}
+
 .headline {
-  height: 70px;
+  height: 50px;
   background-color: lightblue;
+  margin: 20px 0;
 }
 
 .col-left {
-  height: 430px;
-  width: 25%;
+  height: 410px;
+  width: 24%;
   background-color: lightblue;
   float: left;
 }
 
 .col-center {
-  height: 430px;
+  height: 410px;
   width: 50%;
   background-color: lightblue;
   float: left;
+  margin: 0 1%;
 }
 
 .col-right {
-  height: 430px;
-  width: 25%;
+  height: 410px;
+  width: 24%;
   background-color: lightblue;
   float: left;
 }
