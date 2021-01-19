@@ -18,3 +18,40 @@ header {
   height: 400px;
   background-color: beige;
 }
+
+.main-box {
+  height: 500px;
+  background-color: dodgerblue;
+}
+
+/* Section con le colonne */
+.headline {
+  height: 70px;
+  background-color: lightblue;
+}
+
+.col-left {
+  height: 430px;
+  width: 25%;
+  background-color: lightblue;
+  float: left;
+}
+
+.col-center {
+  height: 430px;
+  width: 50%;
+  background-color: lightblue;
+  float: left;
+}
+
+.col-right {
+  height: 430px;
+  width: 25%;
+  background-color: lightblue;
+  float: left;
+}
+
+footer {
+  height: 50px;
+  background-color: rebeccapurple;
+}
